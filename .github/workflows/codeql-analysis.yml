@@ -3,6 +3,11 @@
 #
 # You may wish to alter this file to override the set of languages analyzed,
 # or to provide custom queries or build logic.
+
+- name: DefenseCode ThunderScan Action
+  uses: defensecode/thunderscan-action@v1.0
+
+
 name: "CodeQL"
 
 on:
